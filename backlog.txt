@@ -5,3 +5,4 @@ my backlog
 1.4 As a user I want to view data on my mobile
 1.5 As a user I want to configure view of my system
 1.6 As an admin I want to generate report
+1.7 As an admin I want to access the reports
